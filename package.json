@@ -1,0 +1,19 @@
+{
+  "name": "student-trainings-mock",
+  "version": "1.0.0",
+  "description": "This repo contains the mockup of the student training page. The first task of the module 01 (layout) of Master Front-End [Lemoncode](http://www.formacion.lemoncode.net/master-frontend).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datencia/student-trainings-mock.git"
+  },
+  "author": "David Atencia <david.atencia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datencia/student-trainings-mock/issues"
+  },
+  "homepage": "https://github.com/datencia/student-trainings-mock#readme"
+}
