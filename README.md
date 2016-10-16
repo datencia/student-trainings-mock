@@ -1,7 +1,7 @@
 # Student Trainings Mock
 
 This repo contains the mockup of the student training page.
-The first task of the module 01 (layout) of Master Front-End [Lemoncode](http://www.formacion.lemoncode.net/master-frontend).
+The first task of the module 01 (layout) of [Master Front-End Lemoncode](http://www.formacion.lemoncode.net/master-frontend).
 
 We'll start from the next low-fidelity mockup:
 
